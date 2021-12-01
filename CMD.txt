@@ -1,0 +1,4 @@
+$ docker build . -t psgc/backend-fun-4
+
+$ docker run -p 49160:5000 -d psgc/backend-fun-4
+
